@@ -1,3 +1,4 @@
+import some_package
 
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    some_package.SomeClass.print_sth()
